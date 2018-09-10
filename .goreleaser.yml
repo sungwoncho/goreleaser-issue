@@ -5,5 +5,5 @@ builds:
   env:
     - CGO_ENABLED=1
   flags:
-    - -tags
+    - --tags
     - darwin
